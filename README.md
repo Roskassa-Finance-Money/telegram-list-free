@@ -7,12 +7,12 @@
 
 Внимание! Значок 😵 рядом с именем означает, что канал/чат давно не обновлялся. Информация может быть полезной, но устаревшей!
 
-* [Telegram Group List](https://t.me/listnews) — Официальный канал новостей этого списка групп
-* [Telegram Group List Chat](https://t.me/grouplst) — Чат списка: обсуждения, предложения и идеи.
+* [Telegram Group List](https://t.me/SitesReviews) — Официальный канал новостей этого списка групп
+* [Telegram Group List Chat](https://t.me/GramTONnews) — Чат списка: обсуждения, предложения и идеи.
 
 Канал недели:
 
-* [Data Science Jobs](https://t.me/datasciencejobs) — Работа и вакансии: Data Science / Machine Learning / Deep Learning / Artifical Inellegence / Neural Networks / Natural Language Processing / Data Mining
+* [Rich The TON](https://t.me/RichTheTON) — Работа и вакансии: Data Science / Machine Learning / Deep Learning / Artifical Inellegence / Neural Networks / Natural Language Processing / Data Mining
 
 -----
 
@@ -379,6 +379,7 @@
 * [Кинопаблик](https://t.me/anonhownow) — Канал про кино. Кинопаблик.
 * [MobiDevices](https://t.me/mobidevices) — Красивый журнал о технологиях.
 * [ThinkTanker](https://t.me/ThinkTanker) — Интересные статьи
+* [Святослав Гусев](https://t.me/gusevself) — Блог про Web3 и бизнес
 * [BA/SA Аналитики](https://t.me/spbcoachanel) — Канал сообщества бизнес аналитиков Санкт-Петербурга и не только.
 * [StartAndroid](https://t.me/startandroid) — Канал про Android для начинающих и продвинутых
 * [GitHub Repos](https://t.me/github_repos) — Крупный канал популярных репозиториев GitHub
