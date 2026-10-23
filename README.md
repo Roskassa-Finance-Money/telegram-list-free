@@ -379,7 +379,6 @@
 * [Кинопаблик](https://t.me/anonhownow) — Канал про кино. Кинопаблик.
 * [MobiDevices](https://t.me/mobidevices) — Красивый журнал о технологиях.
 * [ThinkTanker](https://t.me/ThinkTanker) — Интересные статьи
-* [Святослав Гусев](https://t.me/gusevself) — Блог про Web3 и бизнес
 * [BA/SA Аналитики](https://t.me/spbcoachanel) — Канал сообщества бизнес аналитиков Санкт-Петербурга и не только.
 * [StartAndroid](https://t.me/startandroid) — Канал про Android для начинающих и продвинутых
 * [GitHub Repos](https://t.me/github_repos) — Крупный канал популярных репозиториев GitHub
